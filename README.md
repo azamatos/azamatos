@@ -20,7 +20,7 @@ That code belongs to the companies I built it for, so it isn't here. What's publ
 
 - **[azamatos.com](https://azamatos.com)** ([source](https://github.com/azamatos/portfolio)): static Astro site,
   100 in every Lighthouse category, checked in CI.
-<!-- - **[pass](https://pass.azamatos.com)**: password generator with per-platform rules and an encrypted offline vault (after v2) -->
+- **[pass](https://pass.azamatos.com)**: password and passphrase generator with per-platform rules
 <!-- - **[live](https://live.azamatos.com)**: real-time markets dashboard -->
 
 ## Stack
